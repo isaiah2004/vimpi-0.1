@@ -15,8 +15,8 @@ To install Vim-pi, ensure you have Python 3.8+ installed and run the following c
 
 ```sh
 # Clone the repository
-git clone https://github.com/your-repo/vim-pi.git
-cd vim-pi
+git clone https://github.com/isaiah2004/vimpi-0.1.git
+cd vimpi-0.1
 
 # Install dependencies
 pip install -r requirements.txt
@@ -27,7 +27,7 @@ pip install -r requirements.txt
 Run Vim-pi from the terminal:
 
 ```sh
-python vim_pi.py
+python src/main.py
 ```
 
 ## Dependencies
